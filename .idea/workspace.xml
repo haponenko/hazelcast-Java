@@ -15,6 +15,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -30,6 +33,7 @@
     <option name="width" value="1260" />
     <option name="height" value="737" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -56,6 +60,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -84,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PessimisticLocking">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Client" />
       <module name="3" />
@@ -122,8 +127,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PessimisticLocking" />
         <item itemvalue="Application.Client" />
+        <item itemvalue="Application.PessimisticLocking" />
         <item itemvalue="Application.RacyUpdaterMember" />
         <item itemvalue="Application.OptimisticLockingMember2" />
         <item itemvalue="Application.OptimisticLockingMember" />
@@ -141,12 +146,12 @@
       <option name="presentableId" value="Default" />
       <updated>1555020914285</updated>
       <workItem from="1555020919003" duration="1085000" />
-      <workItem from="1555432153947" duration="284000" />
+      <workItem from="1555432153947" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1369000" />
+    <option name="totallyTimeSpent" value="1786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1260" height="737" extended-state="0" />
